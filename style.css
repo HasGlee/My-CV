@@ -1,0 +1,20 @@
+*{
+  background-color: #00aaff;
+  
+}
+.head {
+  text-align: center;
+  font-size: 50px;
+
+}
+
+.contact {
+  background-color: red;
+  color: white;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: none;
+}

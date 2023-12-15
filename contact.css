@@ -1,0 +1,22 @@
+*{
+  background-color: rgb(167, 167, 243);
+  font-family: arial;
+}
+
+.mail{
+  font-size: 40px;
+  color: aliceblue;
+  background-color: blue;
+}
+
+.cell{
+  font-size: 40px;
+  color: aliceblue;
+  background-color: blue;
+}
+
+.cell2{
+  font-size: 40px;
+  color: black;
+  background-color: yellow;
+}
